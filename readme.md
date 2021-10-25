@@ -1,1 +1,2 @@
-# Test for stockbit backend go
+- Test for stockbit backend go
+- for running mysql database, use command "docker-compose up"
